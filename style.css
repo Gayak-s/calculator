@@ -1,0 +1,11 @@
+
+.btn{
+    width: 100px;
+}
+#equal:hover {
+    background-color: rgb(15, 80, 107);
+
+}
+#backspace:hover {
+    background-color: rgb(117, 12, 12);
+}
